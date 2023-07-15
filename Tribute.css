@@ -1,0 +1,39 @@
+.container{
+    background-color: rgb(19, 19, 19);
+    height: 180vh;
+}
+.container1{
+    color:azure;
+    width:109px;
+    margin-left:45%;   
+}
+#years{
+    text-align: center;
+}
+#img{
+    text-align: center;
+}
+img{
+    width:70%;
+    height:70vh;
+
+}
+#bio{
+    width:500px;
+    color:aliceblue;
+    margin: auto;
+}
+hr{
+    width:500px;
+    font-weight: 50;
+}
+#link{
+    text-decoration: none;
+    color:red;
+    
+
+}
+.footer{
+    color:white;
+    text-align: center;
+}
